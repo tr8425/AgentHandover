@@ -1,4 +1,4 @@
-코드는 Claude Code(Opus)가 작성했고, 기획/명세/하네스/검증 시나리오/최종 판단은 김태령이 맡았습니다. 커밋의 Co-Authored-By 트레일러가 그 기록입니다.
+코드는 Claude Code(Opus)가 작성했고, 기획/명세/하네스/검증 시나리오/최종 판단은 개발자가 맡았습니다. 커밋의 Co-Authored-By 트레일러가 그 기록입니다.
 
 # AgentHandover (`agent-cli`)
 
